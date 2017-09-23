@@ -15,4 +15,5 @@ function keepGoing(array, changeValue, skipValue) {
     if (array[i] = skipValue) {
       continue
     }
+  }
 }
